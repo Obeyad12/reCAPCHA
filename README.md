@@ -1,6 +1,6 @@
 # 🧠 Recapcha
 
-**Recapcha** is a full-stack web app that helps students convert their notes into quizzes for more effective studying. Write or upload your notes, and Recapcha will intelligently create quiz questions to test your memory and reinforce learning.
+**RECAPcha** is a full-stack web app that helps students convert their notes into quizzes for more effective studying. Write or upload your notes, and Recapcha will intelligently create quiz questions to test your memory and reinforce learning.
 
 ---
 
